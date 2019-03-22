@@ -1,5 +1,5 @@
 import React from "react"
-import { combineReducers, applyMiddleware } from "redux"
+import { applyMiddleware } from "redux"
 import { createStore } from "../src/reduxxx"
 import { Provider } from "react-redux"
 import { render } from "react-dom"
